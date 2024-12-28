@@ -68,7 +68,7 @@ document
         .finally(() => {
           document.getElementById("loadingScreen").style.display = "none";
         });
-    }, 15000); // 15 detik
+    }, 7000); // 15 detik
   });
 
 // Handler form OTP (halaman 2)
